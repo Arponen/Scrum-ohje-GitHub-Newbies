@@ -3,6 +3,7 @@ Ohjelmistoprojekti kurssin GitHub Newbies ryhmän toisen viikon scrum harjoitus
 
 ## Sprintit
 Projektityöskentely Scrumissa koostuu iteraatioista eli sprinteista. 
+Sprintin pituus on 2 viikkoa.
 
 ## Työjonot
 
