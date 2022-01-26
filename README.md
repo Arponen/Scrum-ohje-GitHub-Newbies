@@ -7,7 +7,7 @@ Sprintin pituus on 2 viikkoa.
 
 ## Työjonot
  
-Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aikana.
+Sprintin työjonossa on konkreettisia tehtäviä, joita toteutetaan sprintin aikana.
 
 ## Roolit
 + Tuoteomistaja
@@ -22,3 +22,4 @@ Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aik
 
 ## Miksi Scrum toimii?
 Scrum toiminta pohjautuu sen ketteryyteen
+muokkaus
