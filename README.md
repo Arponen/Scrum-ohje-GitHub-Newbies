@@ -21,3 +21,4 @@ Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aik
 + kritiikkipalaveri (sprint retrospective)
 
 ## Miksi Scrum toimii?
+Scrum toiminta pohjautuu sen ketteryyteen
