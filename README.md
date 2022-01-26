@@ -8,8 +8,10 @@ Projektityöskentely Scrumissa koostuu iteraatioista eli sprinteista.
 Sprintin pituus on 2 viikkoa.
 
 ## Työjonot - Elina
- 
-Sprintin työjonossa on konkreettisia tehtäviä, joita toteutetaan sprintin aikana.
+
+Työjono sisältää konkreettisia tehtäviä, jotka ovat projektin tuotteeseen haluttuja toiminnallisuuksia. Työjono järjestetään tärkeysjärjestykseen siten, että tärkeimmät toiminnallisuudet ovat ensimmäisinä. Tällöin tärkeimmät toiminnallisuudet saadaan valmiiksi ensin. Järjestys tarkistetaan joka sprintin alussa ja tämän perusteella asetetaan sprintin työjono. Tuotteen haltija toimii tässä priorisoijana. 
+
+Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen tiimiläinen voi muuttaa sprintin työjonoa sekä lisätä ja poistaa tehtäviä. Jokaisesta tehtävästä määritellään työmääräarvio ja arviota päivitetään. Epäselvät työt määritellään työjonoon laajempana osiona. Kun epäselvästä työstä ymmärretään enemmän, päivitetään sitä sen mukaan.
 
 ## Roolit - Max
 + Tuoteomistaja
