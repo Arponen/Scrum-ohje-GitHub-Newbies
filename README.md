@@ -5,7 +5,7 @@ Ohjelmistoprojekti kurssin GitHub Newbies ryhmän toisen viikon scrum harjoitus
 Projektityöskentely Scrumissa koostuu iteraatioista eli sprinteista. 
 
 ## Työjonot
-
+ 
 Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aikana.
 
 ## Roolit
