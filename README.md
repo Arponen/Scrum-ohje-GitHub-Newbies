@@ -22,3 +22,4 @@ Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aik
 
 ## Miksi Scrum toimii?
 Scrum toiminta pohjautuu sen ketteryyteen
+muokkaus
