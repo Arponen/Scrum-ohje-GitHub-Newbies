@@ -10,6 +10,7 @@ Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aik
 
 ## Roolit
 + Tuoteomistaja
+Minä
 + Scrum Master
 + Kehitystiimi
 + Sidosryhmät
