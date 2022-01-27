@@ -25,7 +25,6 @@ Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen t
 + Kehitystiimi
 + Sidosryhmät
 
-<<<<<<< HEAD
 ## Kokoukset
 ### Päiväpalaveri (daily scrum)
 Päiväpalaverit ovat enintään 15 minuutin mittaisia palavereja, jossa kehitystiimi sopii keskinäiset työnsä ja luo suunnitelman seuraavan 24 tunnin tekemiselle. 
@@ -37,12 +36,6 @@ Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kul
 
 ### Sprintti retrospektiivi (sprint retrospective)
 Retrospektiivissa scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
-=======
-## Kokoukset -Mirka
-+ säännöllinen kokous (daily scrum)
-+ sprintin esittely (sprint review)
-+ kritiikkipalaveri (sprint retrospective)
->>>>>>> origin/main
 
 ## Miksi Scrum toimii? - Jussi
 Scrum toiminta pohjautuu sen ketteryyteen
