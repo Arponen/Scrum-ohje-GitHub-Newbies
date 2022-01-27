@@ -18,9 +18,14 @@ Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aik
 + Sidosryhmät
 
 ## Kokoukset
-+ säännöllinen kokous (daily scrum)
-+ sprintin esittely (sprint review)
-+ kritiikkipalaveri (sprint retrospective)
+### Päiväpalaveri (daily scrum)
+Päiväpalaverit ovat enintään 15 minuutin mittaisia palavereja, jossa kehitystiimi sopii keskinäiset työnsä ja luo suunnitelman seuraavan 24 tunnin tekemiselle. 
+
+Palaverissa kehitystiimin jäsenet kertovat, mitä ovat tehneet, mitä tulevat tekemään ja onko tekemiselle mahdollisesti esteitä. 
+
+### Sprintin esittely (sprint review)
+
+### Kritiikkipalaveri (sprint retrospective)
 
 ## Miksi Scrum toimii?
 Scrum toiminta pohjautuu sen ketteryyteen
