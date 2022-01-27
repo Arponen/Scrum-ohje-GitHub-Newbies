@@ -19,13 +19,16 @@ Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen t
 
 Asiakkaan tai organisaation oma, asiakkaan tarpeita edustava henkilö, jonka tehtävä on huolehtia tuotteen työjonon sisällöstä ja priorisoinnista. Pääasiallinen yhteyshenkilö kehitystiimin ja asiakkaan välillä. Tuoteomistaja on tavallaan projektin johtaja, joka päättää ja on vastuussa kehitettävän ohjelmiston tai sovelluksen vaatimuksista ja ominaisuuksista – kukaan muu kehitystiimissä ei voi päättää näitä tuoteomistajan ohi.
 
+Tuoteomistaja vastaa projektin johtamisesta, sekä kehitettävän tuotteen vaatimuksista ja ominaisuuksista. 
+
 + Scrum Master
 
 Eräänlainen projektin manageri tai koordinaattori, joka sekä johtaa että palvelee kehitystiimiä. Scrum master mahdollistaa tavoitteiden saavuttamisen, poistaa esteitä tiimin työskentelyltä, huolehtii Scrumin rituaalien toteutumisesta, johtaa päivittäisen tapaamisen ja huolehtii siitä, että tiimillä on työrauha. 
 + Kehitystiimi
 
 Tiimit ovat itseohjautuvia ja itsenäisiä; ne päättävät itse miten haluttuun lopputulokseen päästään. Tiimin sisällä ei käytetä nimikkeitä. Tiimin jäsenillä on kaikki tarvittavat taidot, joita tuotteen kehittämiseksi tarvitaan. Tiimin koko on rajattu, jotta työ olisi mahdollisimman sujuvaa ja tehokasta. Mikäli tarvitaan – ja usein tarvitaankin – projektiin enemmän henkilöstöresursseja, on parempi perustaa useampi rinnakkainen tiimi, kuin kasvattaa tiimin kokoa.
-+ Sidosryhmät
+
+
 
 ## Kokoukset
 ### Päiväpalaveri (daily scrum)
