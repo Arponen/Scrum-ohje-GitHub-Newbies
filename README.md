@@ -23,7 +23,8 @@ Päiväpalaverit ovat enintään 15 minuutin mittaisia palavereja, jossa kehitys
 
 Palaverissa kehitystiimin jäsenet kertovat, mitä ovat tehneet, mitä tulevat tekemään ja onko tekemiselle mahdollisesti esteitä. 
 
-### Sprintin esittely (sprint review)
+### Sprinttikatselmus (sprint review)
+Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kuluneen sprintin aikaansaannokset. Samalla sopeutetaan tarvittaessa tuotteen kehitysjonoa. Sprinttikatselmuksen aikana scrumtiimi ja sidosryhmät selvittävät yhteistyössä, mitä sprintissä kehitettiin ja mitä tullaan kehittämään seuraavassa sprintissä. 
 
 ### Kritiikkipalaveri (sprint retrospective)
 
