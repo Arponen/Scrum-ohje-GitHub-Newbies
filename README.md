@@ -20,14 +20,14 @@ Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen t
 + Kehitystiimi
 + Sidosryhmät
 
-## Kokoukset -Mirka
+## Kokoukset - Mirka
 + säännöllinen kokous (daily scrum)
 + sprintin esittely (sprint review)
 + kritiikkipalaveri (sprint retrospective)
 
 ## Miksi Scrum toimii? - Jussi
-Scrum toiminta pohjautuu sen ketteryyteen
-muokkaus
+Scrum vastaa nykyajan tiuhaan muuttuviin tarpeisiin ja toimiessaan tarjoaa asiakkaalle nopealla aikataululla käytettävän version tuotteesta. Menetelmän toimiessa pystymme priorisoimaan työssämme asiakkaalle tärkeät seikat. Pystymme myös ketterämmin tekemään muutoksia projektiin asiakkaan mahdollisesti muuttuvien tarpeiden mukaisesti. Scrumissa kehittäjätiimi tekee töitä samanaikaisesti yhdenvertaisina. Tiimin pysyessä pienenä (yleensä alle 10 henkilöä) kommunikaatio ja yhteistyö on tiimin sisällä tehokasta. Scrumin vahvuuksia ovat siis mm. **mukautumiskyky**, **priorisoiminen** ja asiakkaan sekä kehittäjätiimin **korkeampi tyytyväisyys**
 
 ## Lähteet / Lue lisää
 + [Scrum-opas – Scrumin määritelmä ja pelisäännöt](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Finnish.pdf)
++ [Why Does Scrum Work?](https://www.agilest.org/scrum/why-does-scrum-work/)
