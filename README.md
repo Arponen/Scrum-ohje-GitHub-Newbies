@@ -26,7 +26,8 @@ Palaverissa kehitystiimin jäsenet kertovat, mitä ovat tehneet, mitä tulevat t
 ### Sprinttikatselmus (sprint review)
 Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kuluneen sprintin aikaansaannokset. Samalla sopeutetaan tarvittaessa tuotteen kehitysjonoa. Sprinttikatselmuksen aikana scrumtiimi ja sidosryhmät selvittävät yhteistyössä, mitä sprintissä kehitettiin ja mitä tullaan kehittämään seuraavassa sprintissä. 
 
-### Kritiikkipalaveri (sprint retrospective)
+### Sprintti retrospektiivi (sprint retrospective)
+Retrospektiivissa scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
 
 ## Miksi Scrum toimii?
 Scrum toiminta pohjautuu sen ketteryyteen
