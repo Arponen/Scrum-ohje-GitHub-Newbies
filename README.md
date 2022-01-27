@@ -1,11 +1,12 @@
 # Scrum-ohje-GitHub-Newbies
 Ohjelmistoprojekti kurssin GitHub Newbies ryhmän toisen viikon scrum harjoitus
 
-# Scrum-syklin yleiskuvaus - Emmi
+## Scrum-syklin yleiskuvaus - Emmi
+Scrum on viitekehys, jota käytetään projektin hallinnan apuna ketterässä projektityössä. Scrumia hyödyntävä ketterä projekti koostuu määrämittaista sprinteistä, joita suoritetaan siihen asti, kunnes projekti on julkaistu eikä jatkokehitystä tehdä. Ohjelmistoprojektissa työvaiheet ovat yleensä määrittely, suunnittelu, toteutus, testaus ja julkaisu. Projektin eri toiminnallisuudet voivat olla eri vaiheessa kehitystä saman sprtintin aikana. 
 
-## Sprintit -Emmi
-Projektityöskentely Scrumissa koostuu iteraatioista eli sprinteista. 
-Sprintin pituus on 2 viikkoa.
+
+## Sprintit - Emmi
+Sprintin eli iteraation pituus on enintään kuukausi, mutta usein tätä lyhyempi, esimerkiksi kaksi viikkoa. Tänä aikana tavoitteena on saada valmiiksi työjonon kärjestä otettuja asioita ja saattaa ne julkaistavaan kuntoon. Sprintin työjono (sprint backlog) ja sen tehtävät suunnitellaan etukäteen, sillä niihin ei tehdä muutoksia sprintin aikana. Uusi sprintti alkaa heti edellisen päätyttyä. 
 
 ## Työjonot - Elina
 
@@ -27,3 +28,6 @@ Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen t
 ## Miksi Scrum toimii? - Jussi
 Scrum toiminta pohjautuu sen ketteryyteen
 muokkaus
+
+## Lähteet / Lue lisää
++ [Scrum-opas – Scrumin määritelmä ja pelisäännöt](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Finnish.pdf)
