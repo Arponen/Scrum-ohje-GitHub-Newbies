@@ -5,6 +5,7 @@ Ohjelmistoprojekti kurssin GitHub Newbies ryhmän toisen viikon scrum harjoitus
 Scrum on viitekehys, jota käytetään projektin hallinnan apuna ketterässä projektityössä. Scrumia hyödyntävä ketterä projekti koostuu määrämittaista sprinteistä, joita suoritetaan siihen asti, kunnes projekti on julkaistu eikä jatkokehitystä tehdä. Ohjelmistoprojektissa työvaiheet ovat yleensä määrittely, suunnittelu, toteutus, testaus ja julkaisu. Projektin eri toiminnallisuudet voivat olla eri vaiheessa kehitystä saman sprtintin aikana. 
 
 ## Sprintit
+
 Sprintin eli iteraation pituus on enintään kuukausi, mutta usein tätä lyhyempi, esimerkiksi kaksi viikkoa. Tänä aikana tavoitteena on saada valmiiksi työjonon kärjestä otettuja asioita ja saattaa ne julkaistavaan kuntoon. Sprintin työjono (sprint backlog) ja sen tehtävät suunnitellaan etukäteen, sillä niihin ei tehdä muutoksia sprintin aikana. Uusi sprintti alkaa heti edellisen päätyttyä. 
 
 ## Työjonot
