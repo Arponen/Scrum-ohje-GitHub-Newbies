@@ -32,7 +32,7 @@ Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kul
 ### Sprintti retrospektiivi (sprint retrospective)
 Retrospektiivissa scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
 
-## Miksi Scrum toimii? - Jussi
+## Miksi Scrum toimii?
 Scrum vastaa nykyajan tiuhaan muuttuviin tarpeisiin ja toimiessaan tarjoaa asiakkaalle nopealla aikataululla käytettävän version tuotteesta. Menetelmän toimiessa pystymme priorisoimaan työssämme asiakkaalle tärkeät seikat. Pystymme myös ketterämmin tekemään muutoksia projektiin asiakkaan mahdollisesti muuttuvien tarpeiden mukaisesti. Scrumissa kehittäjätiimi tekee töitä samanaikaisesti yhdenvertaisina. Tiimin pysyessä pienenä (yleensä alle 10 henkilöä) kommunikaatio ja yhteistyö on tiimin sisällä tehokasta. Scrumin vahvuuksia ovat siis mm. **mukautumiskyky**, **priorisoiminen** ja asiakkaan sekä kehittäjätiimin **korkeampi tyytyväisyys**
 
 ## Lähteet / Lue lisää
