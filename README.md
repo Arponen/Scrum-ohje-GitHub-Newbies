@@ -1,9 +1,8 @@
 # Scrum-ohje-GitHub-Newbies
 Ohjelmistoprojekti kurssin GitHub Newbies ryhmän toisen viikon scrum harjoitus
 
-## Sprintit
-Projektityöskentely Scrumissa koostuu iteraatioista eli sprinteista. 
-Sprintin pituus on 2 viikkoa.
+## Scrum-syklin yleiskuvaus - Emmi
+Scrum on viitekehys, jota käytetään projektin hallinnan apuna ketterässä projektityössä. Scrumia hyödyntävä ketterä projekti koostuu määrämittaista sprinteistä, joita suoritetaan siihen asti, kunnes projekti on julkaistu eikä jatkokehitystä tehdä. Ohjelmistoprojektissa työvaiheet ovat yleensä määrittely, suunnittelu, toteutus, testaus ja julkaisu. Projektin eri toiminnallisuudet voivat olla eri vaiheessa kehitystä saman sprtintin aikana. 
 
 2-4 viikon välein, projektista riippuen. 
 
@@ -11,12 +10,22 @@ Sprintin pituus on 2 viikkoa.
  
 Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aikana.
 
-## Roolit
+## Sprintit - Emmi
+Sprintin eli iteraation pituus on enintään kuukausi, mutta usein tätä lyhyempi, esimerkiksi kaksi viikkoa. Tänä aikana tavoitteena on saada valmiiksi työjonon kärjestä otettuja asioita ja saattaa ne julkaistavaan kuntoon. Sprintin työjono (sprint backlog) ja sen tehtävät suunnitellaan etukäteen, sillä niihin ei tehdä muutoksia sprintin aikana. Uusi sprintti alkaa heti edellisen päätyttyä. 
+
+## Työjonot - Elina
+
+Työjono sisältää konkreettisia tehtäviä, jotka ovat projektin tuotteeseen haluttuja toiminnallisuuksia. Työjono järjestetään tärkeysjärjestykseen siten, että tärkeimmät toiminnallisuudet ovat ensimmäisinä. Tällöin tärkeimmät toiminnallisuudet saadaan valmiiksi ensin. Järjestys tarkistetaan joka sprintin alussa ja tämän perusteella asetetaan sprintin työjono. Tuotteen haltija toimii tässä priorisoijana. 
+
+Sprintissä tiimiläiset valitsevat itselleen tehtävät työjonosta. Jokainen tiimiläinen voi muuttaa sprintin työjonoa sekä lisätä ja poistaa tehtäviä. Jokaisesta tehtävästä määritellään työmääräarvio ja arviota päivitetään. Epäselvät työt määritellään työjonoon laajempana osiona. Kun epäselvästä työstä ymmärretään enemmän, päivitetään sitä sen mukaan.
+
+## Roolit - Max
 + Tuoteomistaja
 + Scrum Master
 + Kehitystiimi
 + Sidosryhmät
 
+<<<<<<< HEAD
 ## Kokoukset
 ### Päiväpalaveri (daily scrum)
 Päiväpalaverit ovat enintään 15 minuutin mittaisia palavereja, jossa kehitystiimi sopii keskinäiset työnsä ja luo suunnitelman seuraavan 24 tunnin tekemiselle. 
@@ -28,6 +37,16 @@ Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kul
 
 ### Sprintti retrospektiivi (sprint retrospective)
 Retrospektiivissa scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
+=======
+## Kokoukset -Mirka
++ säännöllinen kokous (daily scrum)
++ sprintin esittely (sprint review)
++ kritiikkipalaveri (sprint retrospective)
+>>>>>>> origin/main
 
-## Miksi Scrum toimii?
+## Miksi Scrum toimii? - Jussi
 Scrum toiminta pohjautuu sen ketteryyteen
+muokkaus
+
+## Lähteet / Lue lisää
++ [Scrum-opas – Scrumin määritelmä ja pelisäännöt](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Finnish.pdf)
