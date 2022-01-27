@@ -6,10 +6,6 @@ Scrum on viitekehys, jota käytetään projektin hallinnan apuna ketterässä pr
 
 2-4 viikon välein, projektista riippuen. 
 
-## Työjonot
- 
-Sprintin työjonossa on kontreettisia tehtäviä, joita toteutetaan sprintin aikana.
-
 ## Sprintit - Emmi
 Sprintin eli iteraation pituus on enintään kuukausi, mutta usein tätä lyhyempi, esimerkiksi kaksi viikkoa. Tänä aikana tavoitteena on saada valmiiksi työjonon kärjestä otettuja asioita ja saattaa ne julkaistavaan kuntoon. Sprintin työjono (sprint backlog) ja sen tehtävät suunnitellaan etukäteen, sillä niihin ei tehdä muutoksia sprintin aikana. Uusi sprintti alkaa heti edellisen päätyttyä. 
 
