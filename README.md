@@ -30,7 +30,7 @@ Tiimit ovat itseohjautuvia ja itsenäisiä; ne päättävät itse miten haluttuu
 
 ## Kokoukset
 ### Päiväpalaveri (daily scrum)
-Päiväpalaverit ovat enintään 15 minuutin mittaisia palavereja, jossa kehitystiimi sopii keskinäiset työnsä ja luo suunnitelman seuraavan 24 tunnin tekemiselle. 
+**Päiväpalaverit** ovat enintään 15 minuutin mittaisia palavereja, jossa kehitystiimi sopii keskinäiset työnsä ja luo suunnitelman seuraavan 24 tunnin tekemiselle. 
 
 Palaverissa kehitystiimin jäsenet kertovat, mitä ovat tehneet, mitä tulevat tekemään ja onko tekemiselle mahdollisesti esteitä. 
 
@@ -38,7 +38,7 @@ Palaverissa kehitystiimin jäsenet kertovat, mitä ovat tehneet, mitä tulevat t
 Sprintin lopussa pidetään epämuodollinen palaveri, jossa käydään läpi kuluneen sprintin aikaansaannokset. Samalla sopeutetaan tarvittaessa tuotteen kehitysjonoa. Sprinttikatselmuksen aikana scrumtiimi ja sidosryhmät selvittävät yhteistyössä, mitä sprintissä kehitettiin ja mitä tullaan kehittämään seuraavassa sprintissä. 
 
 ### Sprintti retrospektiivi (sprint retrospective)
-Retrospektiivissa scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
+**Retrospektiivissa** scrumtiimillä on tilaisuus tarkastella työskentelyään ja tehdä suunnitelmia kehitysprosessin mahdollisille parannuksille. Parannukset toteutetaan seuraavassa sprintissä. Sprintin retrospektiivi pidetään sprinttikatselmuksen jälkeen ja ennen seuraavan sprintin suunnittelupalaveria. 
 
 ## Miksi Scrum toimii?
 Scrum vastaa nykyajan tiuhaan muuttuviin tarpeisiin ja toimiessaan tarjoaa asiakkaalle nopealla aikataululla käytettävän version tuotteesta. Menetelmän toimiessa pystymme priorisoimaan työssämme asiakkaalle tärkeät seikat. Pystymme myös ketterämmin tekemään muutoksia projektiin asiakkaan mahdollisesti muuttuvien tarpeiden mukaisesti. Scrumissa kehittäjätiimi tekee töitä samanaikaisesti yhdenvertaisina. Tiimin pysyessä pienenä (yleensä alle 10 henkilöä) kommunikaatio ja yhteistyö on tiimin sisällä tehokasta. Scrumin vahvuuksia ovat siis mm. **mukautumiskyky**, **priorisoiminen** ja asiakkaan sekä kehittäjätiimin **korkeampi tyytyväisyys**
